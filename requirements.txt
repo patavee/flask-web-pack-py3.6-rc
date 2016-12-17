@@ -1,0 +1,10 @@
+Flask
+uwsgi
+flask-restplus
+flask-pymongo
+pytz
+dateutils
+pyyaml
+pykwalify
+twilio
+marshmallow
