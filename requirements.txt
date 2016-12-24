@@ -8,3 +8,4 @@ pyyaml
 pykwalify
 twilio
 marshmallow
+requests
